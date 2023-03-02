@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://static.vecteezy.com/ti/foto-gratuito/p1/2200357-legno-texture-per-sfondo-gratuito-foto.jpg");
+}
+
+input{
+  text-align: center;
+  padding: 5px 10px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  
+}
+
+button{
+  font-size: 1.2em;
+  padding: 5px 10px;
+  border: 1px solid gray;
+  border-radius: 20px;
+}
+
+.first-sect {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding-top: 20px;
+    
+    
+}
+
+
+.first-sect  #check{
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.second-sect{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-top: 40px;
+}
+
+.second-sect #result{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
