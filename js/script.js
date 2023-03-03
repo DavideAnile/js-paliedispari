@@ -122,7 +122,7 @@ UserButton2.addEventListener("click", function(){
     
  
     
-____________________FUNZIONI_____________________
+ /* ____________________FUNZIONI_____________________ */
     
 
     
